@@ -60,13 +60,14 @@ const Experience = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <p className={`${styles.sectionSubText} text-center`}>
-          What I have done so far
-        </p>
-        <h2 className={`${styles.sectionHeadText} text-center`}>
-          Work Experience.
-        </h2>
-      </motion.div>
+  <p className={`${styles.sectionSubText} text-center`}>
+    My Academic Journey
+  </p>
+  <h2 className={`${styles.sectionHeadText} text-center`}>
+    Education
+  </h2>
+</motion.div>
+
 
       <div className='mt-20 flex flex-col'>
         <VerticalTimeline>
@@ -82,4 +83,4 @@ const Experience = () => {
   );
 };
 
-export default SectionWrapper(Experience, "work");
+export default SectionWrapper(Experience, "education");
