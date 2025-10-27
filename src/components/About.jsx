@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Hey there, I am a 2025 graduate B.Tech student in Electronics and Communication Engineering (ECE)
+        Hey there, I am a 2025 Graduate B.Tech student in Electronics and Communication Engineering (ECE)
         (ECE) at Jaypee Institute of Information Technology (JIIT), Noida.        
         <br></br>
         I'm an enthusiastic and dedicated individual with a strong passion for continuous learning and personal development. I thrive on embracing challenges and exploring emerging technologies. Throughout my college experience web development, programming and problem solving has captivated my interest, and I've eagerly delved into various technologies to expand my expertise.
