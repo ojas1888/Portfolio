@@ -6,7 +6,7 @@ import {
     web,
     cpp,
     python,
-    Github,
+    Github, 
     javascript,
     carret2,
     html,
@@ -285,7 +285,7 @@ import {
         {
           name: "react",
           color: "blue-text-gradient",
-        },
+        }, 
         {
           name: "restapi",
           color: "green-text-gradient",
